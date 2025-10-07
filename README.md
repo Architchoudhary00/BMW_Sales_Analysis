@@ -7,18 +7,27 @@ Project Overview
 🎯 Project Objectives
 
 -->Understand BMW’s sales trends over the years.
+
 -->Identify best-selling models and regions.
+
 -->Analyze average prices, fuel type preferences, and transmission popularity.
+
 -->Examine correlations between engine size, price, and sales volume.
+
 -->Generate KPIs and insights for dashboards (Power BI / Tableau).
 
 🧠 SQL Concepts Used
 
 -->Basic filtering & aggregation (GROUP BY, SUM, AVG)
+
 -->Ranking functions (ROW_NUMBER(), RANK(), DENSE_RANK())
+
 -->Window functions (OVER(PARTITION BY ...))
+
 -->Case-based classification (CASE WHEN)
+
 -->Correlation (CORR() or manual formula)
+
 -->Joins & Common Table Expressions (CTEs)
 
 📘 Sample SQL Analysis Questions
