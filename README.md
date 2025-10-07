@@ -30,4 +30,6 @@ Project Overview
 
 -->Joins & Common Table Expressions (CTEs)
 
+📘 Sample SQL Analysis Questions
+
 <img width="1040" height="795" alt="image" src="https://github.com/user-attachments/assets/1ce7d994-701a-4851-ae59-5355624338e5" />
